@@ -1,8 +1,7 @@
-# Hi, 👋 I am Neelapu Tejeshwar Reddy !
+## 👋 Hi, I am N Tejeshwar Reddy!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=700&lines=Backend+Developer+%7C+Cyber+Security+Enthusiast+%7C+Competitive+Coder)](https://git.io/typing-svg)
+### 🎨 Facade Designer
 
-![Profile Views](https://komarev.com/ghpvc/?username=epicman25&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
